@@ -43,3 +43,5 @@ deleteOne: function(table, condition, cb) {
 });
 }
 };
+
+module.exports = orm;
